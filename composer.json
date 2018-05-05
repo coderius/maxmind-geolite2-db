@@ -1,0 +1,7 @@
+{
+  "name": "coderius/maxmind-geolite2-database",
+  "version": "1.0.0",  
+  "keywords": ["maxmind"],
+   "license": ["Creative Commons Attribution-ShareAlike 4.0 International License",
+                "Creative Commons Attribution 3.0 License"]
+}
